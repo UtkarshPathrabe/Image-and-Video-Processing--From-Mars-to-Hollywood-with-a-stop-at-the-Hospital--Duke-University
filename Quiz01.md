@@ -108,4 +108,5 @@ If we quantize an image with double resolution (meaning we use twice the number 
 The total storage needed is reduced by half.  
 
 ### Explanation  
-m(new) = m(old) / 2, n(new) = n(old) / 2 and k(new) = k(old) * 2.  So, new space required = old space required / 2.  
+m(new) = m(old) / 2, n(new) = n(old) / 2 and k(new) = k(old) * 2.  
+So, new space required = old space required / 2.  
