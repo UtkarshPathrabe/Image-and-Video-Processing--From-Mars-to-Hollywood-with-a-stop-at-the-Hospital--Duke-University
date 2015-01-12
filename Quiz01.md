@@ -92,7 +92,7 @@ Decreases.
 
 Question 11
 -----------
-A video has 30 frames (images) per second. Considering that each image has 1000×1000 pixels, an hour of video will occupy  
+A video has 30 frames (images) per second. Considering that each image has 1000 * 1000 pixels, an hour of video will occupy  
 
 ### Answer
 We can't know.  
