@@ -71,7 +71,7 @@ The determinant of a scaling matrix is equal to 1.
 False  
 
 ### Explanation  
-Determinant of scaling matrix = s(x) * s(y), where s(x) & s(y) are the scaling in the x and y directions, respectively.  
+Determinant of scaling matrix = s(x) * s(y), where s(x) & s(y) are the scaling factors in the x and y directions, respectively.  
 
 Question 9
 ----------
