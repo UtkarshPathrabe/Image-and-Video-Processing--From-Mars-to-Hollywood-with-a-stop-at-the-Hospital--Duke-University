@@ -40,14 +40,11 @@ For an image with intensities 21, 95, 169 and 243; and respective probabilities 
 1, 3, 3, 2.  
 
 ### Explanation  
-|    Original Source    | Source Reduction |
-|:---------------------:|:----------------:|
-|Symbol|Probability|Code|     1    |  2    |
-|:----:|:---------:|:--:|:--------:|:-----:|
-|    21|       3/8 | 1  |3/8  |1   |5/8 |0 | 
-|   243|       3/8 | 00 |3/8  |00  |3/8 |1 |
-|    95|       1/8 | 010|1/4  |01  |    |  |
-|   169|       1/8 | 011|     |    |    |  |
+Codes would be  
+ 21 -> 1  
+ 95 -> 010  
+169 -> 011  
+243 -> 00  
 
 Question 5
 ----------  
