@@ -41,8 +41,8 @@ For an image with intensities 21, 95, 169 and 243; and respective probabilities 
 
 ### Explanation  
 Codes would be  
- 21 -> 1  
- 95 -> 010  
+21  -> 1  
+95  -> 010  
 169 -> 011  
 243 -> 00  
 
