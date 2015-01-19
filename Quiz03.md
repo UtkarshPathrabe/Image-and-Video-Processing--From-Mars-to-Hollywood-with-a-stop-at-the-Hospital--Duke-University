@@ -54,7 +54,7 @@ Histograms will be discrete for pixel values:
 
 Question 5
 ----------  
-Which integer x number minimizes summation of x = 1 to 99(|x???i|) ?  
+Which integer x number minimizes (summation of x = 1 to 99(|x - i|)) ?  
 
 ### Answer  
 The quantization.  
@@ -71,7 +71,7 @@ Equivalent to replacing all the pixel values by the average of the values in the
 
 Question 7
 ----------
-Which integer x number minimizes summation of x = 1 to 3 (|x-i|^2) ?  
+Which integer x number minimizes (summation of x = 1 to 3 (|x-i|^2)) ?  
 
 ### Answer
 2  
