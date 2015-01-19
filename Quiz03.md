@@ -44,7 +44,7 @@ Images will have pixel values:
 (2, 0)  
 (2, 1)  
 (2, 2)  
-Histograms will be discrete for pixel values:
+Histograms will be discrete for pixel values:  
 (0, 0)  
 (0, 1) & (1, 0)  
 (0, 2) & (2, 0)  
