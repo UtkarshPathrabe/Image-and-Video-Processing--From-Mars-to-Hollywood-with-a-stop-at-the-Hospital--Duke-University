@@ -64,7 +64,7 @@ Take the median of numbers between [1,...,99].
 
 Question 6
 ----------  
-Applying a 3×3 averaging filter to an image a large (infinity) number of times is  
+Applying a 3*3 averaging filter to an image a large (infinity) number of times is  
 
 ### Answer  
 Equivalent to replacing all the pixel values by the average of the values in the original image.  
