@@ -1,0 +1,10 @@
+RGB = imread('saturn.png');
+I = rgb2gray(RGB);
+I2G = imnoise(I,'gaussian', 0.02);
+I2 = imnoise(I,'salt & pepper', 0.02);
+I20 = imnoise(I,'salt & pepper', 0.2);
+figure, imshow(RGB);
+figure, imshow(I);
+figure, imshow(I2G);
+figure, imshow(I2);
+figure, imshow(I20);
