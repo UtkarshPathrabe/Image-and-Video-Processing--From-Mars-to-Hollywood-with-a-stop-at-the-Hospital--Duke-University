@@ -44,7 +44,7 @@ For an image with intensities 21, 95, 169 and 243; and respective probabilities 
 
 ### Explanation  
 A Possible Huffman code is:  
-![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Quiz02Ques04.png "Mask")  
+![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2002/Quiz02Ques04.png "Mask")  
 So, Huffman Codes would be  
 21  -> 1  
 95  -> 010  
