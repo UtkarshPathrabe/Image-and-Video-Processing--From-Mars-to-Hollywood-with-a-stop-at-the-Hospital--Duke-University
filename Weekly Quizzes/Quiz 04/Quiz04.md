@@ -8,7 +8,7 @@ Quiz 03
 Question 1  
 ----------  
 Compute the variance of the uniform noise distribution function (b>a):  
-![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Quiz04Ques01.png "Mask")  
+![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2004/Quiz04Ques01.png "Mask")  
 
 ### Answer  
 ((b - a) ^ 2) / 2  
@@ -18,7 +18,7 @@ Question 2
 What is the probability distribution function of salt-and-pepper noise?  
 
 ### Answer  
-![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Quiz04Ques02.png "Mask")  
+![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2004/Quiz04Ques02.png "Mask")  
 
 Question 3
 ----------  
