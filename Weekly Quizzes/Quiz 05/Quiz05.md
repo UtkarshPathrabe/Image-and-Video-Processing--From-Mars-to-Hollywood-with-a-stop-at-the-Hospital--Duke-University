@@ -1,6 +1,10 @@
 Quiz 05
 =======  
 
+|Attempts|Score|
+|:------:|:---:|
+| 1/1000 | 9/9 |
+
 Question 01
 -----------  
 Consider you want to use the Hough transform to detect an ellipse in an image. What are the dimensions of the accumulator space? In other words, how many parameters you need to estimate?  
