@@ -21,7 +21,7 @@ Perpendicular to the level lines of f(x,y).
 
 Question 03
 -----------  
-Consider the functional (???|???I|p) for an image I(x,y) and p>0. For which p the Euler-Lagrange of the functional will lead to anisotropic diffusion?  
+Consider the functional (Integral|Del I|p) for an image I(x,y) and p>0. For which p the Euler-Lagrange of the functional will lead to anisotropic diffusion?  
 
 ### Answer  
 p = 1.  
@@ -31,14 +31,14 @@ Question 04
 Considering a planar curve C embedded as the zero level set of a function f(x,y). The curve moves with constant velocity. Then f(x,y) is deforming according to  
 
 ### Answer  
-ft=|???f|.  
+ft=|Del f|.  
 
 Question 05
 -----------  
 Consider a circle of radius 1/8. What is the relationship between the affine arc-length dv and the Euclidean arc-length ds for this circle?  
 
 ### Answer  
-dv = 2ds.
+dv = 2 * ds.
 
 Question 06
 -----------  
