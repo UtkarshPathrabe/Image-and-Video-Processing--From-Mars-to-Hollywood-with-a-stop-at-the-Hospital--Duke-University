@@ -7,10 +7,10 @@ Quiz 07
 
 Question 01
 -----------  
-Consider the general image inpainting form ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0701.png "Text 1"), meaning we propagate the information L in the direction ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0703.png "Text 2") , as we have discussed in Video 3 this week. Consider ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0702.png "Text 3") meaning the perpendicular ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0704.png "Text 4")to the gradient of the image. What will happen if instead of propagating the Laplacian of I as in the video, we propagate the image I itself?  
+Consider the general image inpainting form ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0701.png "Text 1"), meaning we propagate the information L in the direction ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0703.png "Text 2") , as we have discussed in Video 3 this week. Consider ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0702.png "Text 3")  meaning the perpendicular ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0704.png "Text 4") to the gradient of the image. What will happen if instead of propagating the Laplacian of I as in the video, we propagate the image I itself?  
 
 ### Answer  
-Any inpainted region will solve the basic equation ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0701.png "Text 1") for this choice.  
+Any inpainted region will solve the basic equation ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0701.png "Text 1")  for this choice.  
 
 Question 02
 -----------  
@@ -21,7 +21,7 @@ Consider a region to be inpainted with `N` missing pixels, in an image with `M` 
 
 Question 03  
 -----------  
-For a given image `I`, ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0705.png "Text 5") is equal to (`div` stands for the divergence)  
+For a given image `I`, ![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2007/Quiz0705.png "Text 5")  is equal to (`div` stands for the divergence)  
 
 ### Answer  
 The Euclidean curvature of the image level lines.  
