@@ -25,6 +25,7 @@ What is the probability distribution function of salt-and-pepper noise?
 
 ### Explanation  
 Remember that we need a probability to create salt (white) and a probability to create pepper (black).  
+![alt text](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University/blob/master/Weekly%20Quizzes/Quiz%2004/Quiz04Ques02Exp.png "Mask")  
 
 Question 3
 ----------  
