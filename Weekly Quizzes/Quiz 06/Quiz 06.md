@@ -62,9 +62,15 @@ Consider a planar shape in an image, with its boundary deforming with only tange
 ### Answer  
 It will not change.  
 
+### Explanation  
+Tangential motion does not change the shape of a curve and its surrounding shape.  
+
 Question 07
 -----------  
 Considering an image with only circular objects of known radius. Which of the following techniques would you use to detect their centers:  
 
 ### Answer  
 Hough transform.  
+
+### Explanation  
+While we could use active contours, since the shape of the objects is know, is more appropriate to use the Hough transform.  
