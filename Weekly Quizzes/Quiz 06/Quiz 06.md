@@ -40,10 +40,10 @@ Question 04
 Considering a planar curve C embedded as the zero level set of a function f(x,y). The curve moves with constant velocity. Then f(x,y) is deforming according to  
 
 ### Answer  
-ft=|Del f|.  
+ft = |`Del` f|.  
 
 ### Explanation  
-We have demonstrated that the general motion is ft = V * |Del f| when the curve is moving with speed V in the normal direction. In this case (constant motion) V = 1.  
+We have demonstrated that the general motion is ft = V * |`Del` f| when the curve is moving with speed V in the normal direction. In this case (constant motion) V = 1.  
 
 Question 05
 -----------  
@@ -53,7 +53,7 @@ Consider a circle of radius 1/8. What is the relationship between the affine arc
 dv = 2 * ds.  
 
 ### Explanation  
-We have that dv = $\kappa$ ^ (1 / 3) ds, and since the radius is 1/8, the curvature $\kappa$ is 8.  
+We have that dv = `kappa` ^ (1 / 3) ds, and since the radius is 1/8, the curvature `kappa` is 8.  
 
 Question 06
 -----------  
